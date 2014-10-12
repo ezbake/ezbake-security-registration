@@ -1,0 +1,14 @@
+
+/target
+*~
+*#
+=======
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+dependency-reduced-pom.xml
+
+thrift-runner.jar
